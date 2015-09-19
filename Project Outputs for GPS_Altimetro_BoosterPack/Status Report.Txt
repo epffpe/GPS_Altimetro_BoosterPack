@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GPS_Altimetro_BoosterPack.PrjPcb]
+   Generated File[GPS_Altimetro_BoosterPack.TXT]
+   Generated File[GPS_Altimetro_BoosterPack.DRL]
+   Generated File[GPS_Altimetro_BoosterPack.LDP]
+   Generated File[GPS_Altimetro_BoosterPack.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:33:53 On 07/11/2013

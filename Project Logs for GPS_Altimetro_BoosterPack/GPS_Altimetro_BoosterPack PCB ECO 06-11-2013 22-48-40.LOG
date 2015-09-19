@@ -1,0 +1,113 @@
+Added Component: Designator=C1(0805_CAP)
+Added Component: Designator=C2(0805_CAP)
+Added Component: Designator=C3(0805_CAP)
+Added Component: Designator=C4(0805_CAP)
+Added Component: Designator=C5(0805_CAP)
+Added Component: Designator=C6(0805_CAP)
+Added Component: Designator=C7(0805_CAP)
+Added Component: Designator=C8(0805_CAP)
+Added Component: Designator=C9(0805_CAP)
+Added Component: Designator=COMM1(HDR2X3_CEN)
+Added Component: Designator=D1(1N4148SMD)
+Added Component: Designator=P1(HDR1X7)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(Header2Macho)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=U1(SOIC127P602-16BN)
+Added Component: Designator=U2(LaunchPad)
+Added Pin To Net: NetName=3.3V Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=U2-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P4-2
+Added Pin To Net: NetName=5V Pin=U1-16
+Added Pin To Net: NetName=5V Pin=U2-11
+Added Net: Name=5V
+Added Pin To Net: NetName=ALT_CSB Pin=P1-5
+Added Net: Name=ALT_CSB
+Added Pin To Net: NetName=ALT_PS Pin=P1-7
+Added Net: Name=ALT_PS
+Added Pin To Net: NetName=ALT_SCL Pin=P1-3
+Added Pin To Net: NetName=ALT_SCL Pin=U2-13
+Added Net: Name=ALT_SCL
+Added Pin To Net: NetName=ALT_SDA Pin=P1-4
+Added Pin To Net: NetName=ALT_SDA Pin=U2-14
+Added Net: Name=ALT_SDA
+Added Pin To Net: NetName=ALT_SDO Pin=P1-6
+Added Net: Name=ALT_SDO
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=COMM1-3
+Added Pin To Net: NetName=GND Pin=COMM1-6
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-31
+Added Net: Name=GND
+Added Pin To Net: NetName=GPS_RX Pin=P2-2
+Added Pin To Net: NetName=GPS_RX Pin=U2-29
+Added Net: Name=GPS_RX
+Added Pin To Net: NetName=GPS_TX Pin=P2-3
+Added Pin To Net: NetName=GPS_TX Pin=U2-28
+Added Net: Name=GPS_TX
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-5
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U1-4
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=U1-6
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P3-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=RXD1 Pin=P4-3
+Added Pin To Net: NetName=RXD1 Pin=U1-12
+Added Net: Name=RXD1
+Added Pin To Net: NetName=RXD2 Pin=U1-9
+Added Pin To Net: NetName=RXD2 Pin=U2-24
+Added Net: Name=RXD2
+Added Pin To Net: NetName=TXD1 Pin=P4-4
+Added Pin To Net: NetName=TXD1 Pin=U1-11
+Added Net: Name=TXD1
+Added Pin To Net: NetName=TXD2 Pin=U1-10
+Added Pin To Net: NetName=TXD2 Pin=U2-25
+Added Net: Name=TXD2
+Added Pin To Net: NetName=URXD1 Pin=COMM1-2
+Added Pin To Net: NetName=URXD1 Pin=U1-13
+Added Net: Name=URXD1
+Added Pin To Net: NetName=URXD2 Pin=COMM1-5
+Added Pin To Net: NetName=URXD2 Pin=U1-8
+Added Net: Name=URXD2
+Added Pin To Net: NetName=UTXD1 Pin=COMM1-1
+Added Pin To Net: NetName=UTXD1 Pin=U1-14
+Added Net: Name=UTXD1
+Added Pin To Net: NetName=UTXD2 Pin=COMM1-4
+Added Pin To Net: NetName=UTXD2 Pin=U1-7
+Added Net: Name=UTXD2
+Added Class: Name=GPS_Altimetro_BoosterPack
+Added Room: Name=GPS_Altimetro_BoosterPack
